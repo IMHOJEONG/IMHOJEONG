@@ -22,7 +22,7 @@
 
 ![Java](https://img.shields.io/static/v1?label=Java&logo=Java&message=2/5&color=lightgreen)
 
-![Python](https://img.shields.io/static/v1?label=Java&logo=Python&message=1/5&color=red)
+![Python](https://img.shields.io/static/v1?label=Python&logo=Python&message=1/5&color=red)
 
 ## Todos list
 
