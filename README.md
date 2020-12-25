@@ -32,7 +32,7 @@
 | 2019 OpenHack Hackerthon     | 2019.06.26~2019.06.29 | https://www.facebook.com/openhack.kr/, https://www.youtube.com/watch?v=qmYJ3Z4X708                                   |
 | ChungNam National University | 2014.03~2020.08       | Graduated                                                                                                            |
 | CCCR Cloud Education         | 2020.05~2020.10       | https://www.youtube.com/watch?v=qfu8uORcaxA                                                                          |
-| Kakao Enterprise Intern      | 2020.11~2020.12       |                                                                                                                      |
+| Kakao Enterprise Intern      | 2020.11.17~2020.12.31 |                                                                                                                      |   | Samsung Software Academy     | 2021.1.6~             |
 
 ## My Github stats
 
