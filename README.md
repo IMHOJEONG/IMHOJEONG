@@ -18,11 +18,10 @@
 
 ## Language Skills 
 
-![Javascript](https://img.shields.io/static/v1?label=Javascript&logo=Javascript&message=3/5&color=blue)
+![Javascript](https://img.shields.io/static/v1?label=Javascript&logo=Javascript&message=3/5&color=blue) ![Java](https://img.shields.io/static/v1?label=Java&logo=Java&message=2/5&color=lightgreen) ![Python](https://img.shields.io/static/v1?label=Python&logo=Python&message=1/5&color=red)
 
-![Java](https://img.shields.io/static/v1?label=Java&logo=Java&message=2/5&color=lightgreen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMHOJEONG&hide_border=true&layout=compact)](https://github.com/KFGD)
 
-![Python](https://img.shields.io/static/v1?label=Python&logo=Python&message=1/5&color=red)
 
 ## Todos list
 
