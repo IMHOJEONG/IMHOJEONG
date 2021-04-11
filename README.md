@@ -27,7 +27,7 @@
 
 | Todos                        | Dates                 | Link                                                                                                                 |
 |------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------|
-| Kaist Chatbot Study          | 2019.07.22~2019.07.26 | https://smartenergyai.imweb.me/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1998851&t=board |
+| Kaist Chatbot Study          | 2019.07.22~2019.07.26 | https://smartenergyai.imweb.me/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1998851&t=board, https://github.com/IMHOJEONG/ToysProject/tree/master/Education/2019KAISTChatBot |
 | 2019 OpenHack Hackerthon     | 2019.06.26~2019.06.29 | https://www.facebook.com/openhack.kr/, https://www.youtube.com/watch?v=qmYJ3Z4X708                                   |
 | ChungNam National University | 2014.03~2020.08       | Graduated                                                                                                            |
 | CCCR Cloud Education         | 2020.05~2020.10       | https://www.youtube.com/watch?v=qfu8uORcaxA                                                                          |
