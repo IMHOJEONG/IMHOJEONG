@@ -1,40 +1,42 @@
-### 🔥 Hi there! My Name is Hojeong! 👋
+<h1 align="center">Hi 👋, I'm ImHoJeong</h1>
+<h3 align="center">A passionate web developer</h3>
 
-<a href="https://gitmoji.carloscuesta.me">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhojeong&label=Profile%20views&color=0e75b6&style=flat" alt="imhojeong" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imhojeong" alt="imhojeong" /></a> </p>
+
+- 🔭 I’m currently working on **imhojeong-potfolio**
+
+- 👨‍💻 All of my projects are available at [https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec](https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec)
+
+- 💬 Ask me about **react, vue etc**
+
+- 📫 How to reach me **39ghwjd@naver.com**
+
+- 📄 Know about my experiences [https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec](https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec)
+
+- ⚡ Fun fact **I think I am enthusiastic!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/39ghwjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="39ghwjd" height="30" width="40" /></a>
+<a href="https://dev.to/imhojeong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="imhojeong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hojeong im" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hojeong im" height="30" width="40" /></a>
+<a href="https://codesandbox.com/imhojeong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imhojeong" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/임호정" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="임호정" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 
-<!--
-**IMHOJEONG/IMHOJEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIMHOJEONG%2FIMHOJEONG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23786969&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-- 🌱 I’m currently learning Web Developments ( Web FrontEnd )
-- 🤔 I’m looking for help with getting jobs!
-- 📫 How to reach me: 39ghwjd@naver.com
-- ⚡ Keep learning.
-
-## Language Skills 
-
-![Javascript](https://img.shields.io/static/v1?label=Javascript&logo=Javascript&message=3/5&color=blue) ![Java](https://img.shields.io/static/v1?label=Java&logo=Java&message=2/5&color=lightgreen) ![Python](https://img.shields.io/static/v1?label=Python&logo=Python&message=1/5&color=red)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMHOJEONG&hide_border=true&layout=compact)](https://github.com/IMHOJEONG)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeasmoothe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeasmoothe" /></a></p><br><br>
 
 
-## Todos list
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhojeong&show_icons=true&locale=en&layout=compact" alt="imhojeong" /></p>
 
-| Todos                        | Dates                 | Link                                                                                                                 |
-|------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------|
-| Kaist Chatbot Study          | 2019.07.22~2019.07.26 | https://smartenergyai.imweb.me/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1998851&t=board, https://github.com/IMHOJEONG/ToysProject/tree/master/Education/2019KAISTChatBot |
-| 2019 OpenHack Hackerthon     | 2019.06.26~2019.06.29 | https://www.facebook.com/openhack.kr/, https://www.youtube.com/watch?v=qmYJ3Z4X708                                   |
-| ChungNam National University | 2014.03~2020.08       | Graduated                                                                                                            |
-| CCCR Cloud Education         | 2020.05~2020.10       | https://www.youtube.com/watch?v=qfu8uORcaxA                                                                          |
-| Kakao Enterprise Intern      | 2020.11.17~2020.12.31 | Finished      
-| Samsung Software Academy     | 2021.1.6~             | Processing.... |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhojeong&show_icons=true&locale=en" alt="imhojeong" /></p>
 
-## My Github stats
-
-![IMHOJEONG's github stats](https://github-readme-stats.vercel.app/api?username=IMHOJEONG&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhojeong&" alt="imhojeong" /></p>
 
