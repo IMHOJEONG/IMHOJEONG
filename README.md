@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **imhojeong-potfolio**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec](https://www.notion.so/ImHoJeong-bbfc5e4ccdf6414e96b563792da5cbec)
+- 👨‍💻 All of my projects are available at [Link](https://feline-ceramic-f5b.notion.site/713560d2389d4bef9d38761d592745e5)
 
 - 💬 Ask me about **react, vue etc**
 
@@ -27,7 +27,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhojeong&show_icons=true&locale=en&layout=compact" alt="imhojeong" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhojeong&show_icons=true&locale=en" alt="imhojeong" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhojeong&show_icons=true&locale=en&layout=compact" alt="imhojeong" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhojeong&show_icons=true&locale=en" alt="imhojeong" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhojeong&" alt="imhojeong" /></p>
 
