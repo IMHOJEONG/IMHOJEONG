@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm ImHoJeong</h1>
-<h3 align="center">코드로 증명할 수 있는 개발자</h3>
-
 - 💬 Ask me about **react, vue etc**
 
 - 📫 How to reach me **39ghwjd@naver.com**
