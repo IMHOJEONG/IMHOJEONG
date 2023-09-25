@@ -1,3 +1,3 @@
-- 💬 Ask me about **react, vue etc**
+💬 Ask me about **react, vue etc**
 
-- 📫 How to reach me **39ghwjd@naver.com**
+📫 How to reach me **39ghwjd@naver.com**
