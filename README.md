@@ -1,3 +1,3 @@
-💬 Ask me about **react, vue etc**
+[![An image of @imhojeong's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imhojeong)](https://holopin.io/@imhojeong)
 
-📫 How to reach me **39ghwjd@naver.com**
+💬 Ask me about **react, vue etc**
